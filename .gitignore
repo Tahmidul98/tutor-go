@@ -1,0 +1,9 @@
+
+# SDD executor scratch (per-plan ledgers and briefs)
+.superpowers/
+
+.env
+.env.local
+node_modules/
+dist/
+*.local
